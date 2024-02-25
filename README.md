@@ -4,8 +4,8 @@ This doom clone is supposed to be run on a 64x64 LED Matrix.
 
 ## Render Engine
 
-    - Sprite
-    - Animations
+- Sprite
+- Animations
 
 ## Physics Engine
 
